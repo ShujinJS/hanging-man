@@ -1,3 +1,3 @@
 # hanging-man
-A functional hanging man project
-let words = ["Bardak", "Tabak", "Kapı", "Telefon"];
+A functional hanging man project,
+Used words are: ["Bardak", "Tabak", "Kapı", "Telefon"]
